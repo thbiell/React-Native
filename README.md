@@ -1,2 +1,2 @@
-# React-React-Native
+# React-Native
 Projetos feitos em React Native
